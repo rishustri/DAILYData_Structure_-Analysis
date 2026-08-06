@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-struct Hospital
+struct HospitalHospital_Structure
 {
     char patientName[30];
     char disease[30];

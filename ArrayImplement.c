@@ -55,16 +55,3 @@ int main() {
     traverse();
     return 0;
 }
-// the steps to connect githuhb to your vsc folder in file 
-// 1. Open Visual Studio Code.
-// 2. Open the folder that contains your project files.
-// 3. Click on the Source Control icon in the left sidebar (or press Ctrl+
-Shift+G).
-// 4. Click on the "Initialize Repository" button to create a new Git repository in your project folder.
-// 5. After initializing the repository, you can see the changes in the Source Control panel
-// 6. To connect to GitHub, click on the "Publish to GitHub" b
-// like after creating the repo in github how to connect it to vsc 
-// 1. Open Visual Studio Code.
-// 2. Open the folder that contains your project files.
-// 3. Click on the Source Control icon in the left sidebar (or press Ctrl+Shift+G).
-

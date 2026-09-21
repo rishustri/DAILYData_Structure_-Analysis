@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 void printSums(int N)
 {
     int n;
